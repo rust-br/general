@@ -7,7 +7,7 @@ Local destinado para informações gerais dos grupos no Brasil.
 - [Rust in POA](https://www.meetup.com/Rust-in-POA/)
 - [Rust Rio](https://www.meetup.com/Rust-Rio/)
 - [Rust São Paulo Meetup](https://www.meetup.com/Rust-Sao-Paulo-Meetup/)
-- [Rust RN](https://www.meetup.com/Rust-Sao-Paulo-Meetup/)
+- [Rust RN](https://www.meetup.com/Rust-RN/)
 
 ### Comunicação
 
