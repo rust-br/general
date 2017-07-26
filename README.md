@@ -3,6 +3,9 @@ Local destinado para informações gerais dos grupos no Brasil.
 
 ### Meetups
 
+- Rust Belo Horizonte
+  - [Meetup](https://www.meetup.com/Rust-BH/)
+  - [Telegram](https://t.me/rustbh)
 - [Rust Floripa](https://www.meetup.com/Rust-Floripa/)
 - [Rust in POA](https://www.meetup.com/Rust-in-POA/)
 - [Rust Rio](https://www.meetup.com/Rust-Rio/)
