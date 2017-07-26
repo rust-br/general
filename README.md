@@ -13,3 +13,4 @@ Local destinado para informações gerais dos grupos no Brasil.
 
 - Telegram [link](https://t.me/rustlangbr)
 - #rust-br [link](https://kiwiirc.com/client/irc.mozilla.org/#rust-br)
+- Slack [link](https://join.slack.com/t/rust-brasil/shared_invite/MjE4OTg1MjA2Mzc1LTE1MDEwNzI2NjQtNTExN2RhZmM2ZA)
