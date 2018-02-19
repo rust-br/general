@@ -12,7 +12,7 @@ Local destinado para informações gerais dos grupos no Brasil.
 - [Rust São Paulo Meetup](https://www.meetup.com/Rust-Sao-Paulo-Meetup/)
 - Rust RN
   - [Meetup](https://www.meetup.com/Rust-RN/)
-  - [Whatapp](https://chat.whatsapp.com/HB0LZj343SvBXFgBg1MgbL)
+  - [Whatsapp](https://chat.whatsapp.com/HB0LZj343SvBXFgBg1MgbL)
   - [Telegram](https://t.me/rustpoti)
 
 ### Comunicação
